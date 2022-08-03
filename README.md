@@ -1,6 +1,10 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAZUKISHUTO)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=KAZUKISHUTO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+hello world
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAZUKISHUTO&layout=compact&show_icons=true&theme=gruvbox" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KAZUKISHUTO&theme=gruvbox&show_icons=ture" />
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=KAZUKISHUTO&theme=gruvbox&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **KAZUKISHUTO/KAZUKISHUTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
