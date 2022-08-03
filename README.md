@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=KAZUKISHUTO)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAZUKISHUTO)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KAZUKISHUTO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **KAZUKISHUTO/KAZUKISHUTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
